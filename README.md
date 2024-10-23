@@ -1,2 +1,2 @@
 # Flight-delay-Analysis
-analysing the cause oflight delay
+analysing the cause of Flight delay
